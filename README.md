@@ -2,7 +2,7 @@
 
 A modern, interactive, and responsive personal portfolio website built with the latest web technologies. This project showcases my skills, experience, and projects through a visually engaging interface featuring 3D elements and smooth animations.
 
-![Portfolio Preview](https://altamish-portfolio.netlify.app/)
+Portfolio Preview https://altamish-portfolio.netlify.app/
 
 ## 🚀 fast Tech Stack
 
